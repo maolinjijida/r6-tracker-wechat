@@ -1,5 +1,5 @@
 // src/sdk/extractors/profileExtractor.js
-
+//这四个清洗器是我前面野路子弄得json搞得，需重写
 /**
  * @typedef {Object} PlayerProfile
  * @property {string|null} profile_id
